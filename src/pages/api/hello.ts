@@ -9,8 +9,5 @@ export default function handler(
   req: NextApiRequest,
   res: NextApiResponse<Data>
 ) {
-  fs.readFile('/QData/quarter-1.json', 'utf-8', (err, data)=>{
-    console.log(data)
-  })
   res.status(200).json({ name: 'John Doe' })
 }

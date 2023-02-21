@@ -1,0 +1,16 @@
+{
+    "title": "Quarter I (core)",
+    "meta-title":"CS-101: Object-Oriented Programming using TypeScript",
+    "content": "We will start the program by learning the fundamentals of Object-Oriented programming using JavaScript and TypeScript. We will also understand the latest Web trends i.e. Web 3.0 and Metaverse concepts and try to understand their working from the perspective of the users. ",
+    "slug":"Quarter I (core)",
+
+    
+    "headPoint1":"HTML and CSS (Homework) ",
+    "headPoint2": "Web 3.0 and Metaverse Theory",
+    "headPoint3": "Fundamentals of Typescript",
+    "headPoint4": "Object-Oriented Programming with TypeScript",
+    "headPoint5": "TypeScript for React",
+    "headPoint6": "Quarter Break Assignments and Quizzes",
+    "headPoint7": "Fundamentals of Version Control with Git Quiz",
+    "headPoint8": "TypeScript Proficiency Quiz"
+}

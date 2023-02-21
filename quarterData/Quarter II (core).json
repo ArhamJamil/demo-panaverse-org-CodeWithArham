@@ -1,0 +1,30 @@
+{
+    "title": "Quarter II (core)",
+    "meta-title":"W2-201: Developing Planet-Scale Web 2.0 Serverless Cloud Apps and APIs using Next.js 13 and Cloud Development Kit (CDK) for Terraform",
+    "content": "The objective of this course is to teach participants to develop customer-facing planet-scale Websites, Full-Stack Apps and templates, Dashboards, and Muti-Cloud Serverless APIs. By the end of the quarter, the participants will be able to develop and deploy web platforms like Facebook, Shopify, etc. The technologies covered in this course will include Next.js 13, Figma, Tailwind CSS, Chakra UI, tRPC, QraphQL, Prisma, Cockroachdb Serverless (PostgreSQL Compatible), AWS Serverless Technologies, and Cloud Development Kit for Terraform (CDKTF).",
+    "slug":"Quarter II (core)",
+
+    
+    "headPoint1":"Next.js 13 Web Development ",
+    "headPoint2": "Next.js 13 using Chakra UI (Remote Zoom Class)",
+    "headPoint3": "UI/UX Design with Figma, TailwindCSS, and Chakra UI (Remote  Zoom Class)",
+    "headPoint4": "API Routes with Next.js (Remote Zoom Class)",
+    "headPoint5": "APIs with Next.js and tRPC (Remote Zoom Class)",
+    "headPoint6": "SQL and Prisma",
+    "headPoint7": "Next.js 13 using TailwindCSS (Remote Zoom Class)",
+    "headPoint8": "AWS Application Composer (Remote Zoom Class)",
+    "headPoint9": "Multi-Cloud GraphQL Serverless API Development with Cloud Development Kit for Terraform (CDKTF) (Remote Zoom Class)",
+
+    "H1_data1": "Next 13 Official Documentation: https://beta.nextjs.org/docs.",
+    "H1_data2": "Latest Learn React Official Website: https://beta.reactjs.org/learn",
+    "H1_data3": "Learn Next.js 13 Learning Repo https://github.com/panaverse/learn-nextjs",
+
+    "H2_data1": "CSS Flexbox Explained – Complete Guide to Flexible Containers and Flex Items: https://www.freecodecamp.org/news/css-flexbox-complete-guide/",
+    "H2_data2": "Chakra UI Docs : https://chakra-ui.com/getting-started",
+
+    "H3_data1":"Designing and Prototyping Interfaces with Figma: Learn essential UX/UI design principles by creating interactive prototypes for mobile, tablet, and desktop by Fabio Staiano :https://www.amazon.com/Designing-Prototyping-Interfaces-Figma-interactive/dp/180056418X/ref=sr_1_1_sspa ",
+    "H3_data2":"Figma Design Kit for TailwindCSS: https://www.figma.com/community/file/768809027799962739",
+    "H3_data3":"Chakra UI Figma Kit: https://www.figma.com/community/file/971408767069651759"
+ 
+
+}
