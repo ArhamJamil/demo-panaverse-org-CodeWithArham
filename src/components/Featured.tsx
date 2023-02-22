@@ -39,7 +39,7 @@ const Featured = () => {
                     CS-101: Object-Oriented Programming using TypeScript.
                   </p>
                   
-                  <Link href={'/quarterPosts/Quarter I (core)'} className="mt-3 text-green-500 inline-flex items-center">
+                  <Link href={'/allQuarters/QT_1'} className="mt-3 text-green-500 inline-flex items-center">
                   <button className="inline-flex text-white bg-red-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110">Learn More
                     <svg
                       fill="none"
